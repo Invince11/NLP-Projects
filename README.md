@@ -1,4 +1,4 @@
 # NLP-Projects
 The following NLP projects can be found in this repository.
-1. Predict tags on StackOverflow with linear models
-2. Toxic Comment Classification
+1. Predict tags on StackOverflow with linear models (Max accuracy achieved- 67%)
+2. Toxic Comment Classification (Max accuracy achieved - 99.36%)
